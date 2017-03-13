@@ -1,0 +1,22 @@
+{
+  "name": "uphere",
+  "version": "1.0.0",
+  "description": "Live Videochat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uphere2017/uphere.git"
+  },
+  "author": "Ken Huh <ken123777@gmail.com> (http://ken.wiki/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uphere2017/uphere/issues"
+  },
+  "homepage": "https://github.com/uphere2017/uphere#readme",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
+}
